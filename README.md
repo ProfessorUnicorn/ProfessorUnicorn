@@ -1,4 +1,10 @@
+<!---
+ProfessorUnicorn/ProfessorUnicorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 - 🦄 Hi, I’m @ProfessorUnicorn
+- 💞️ I love 🛼roller skating and 🎿skiing
 - 💞️ I love 🛼roller skating and 🎿skiing
 - Facebook <a 
      href="https://www.facebook.com/mrsprofessor.lassonde" 
@@ -9,7 +15,3 @@
 - Twitter <a 
      href="https://twitter.com/ProfLassonde" 
      target=_blank>@ProfLassonde</a>      
-<!---
-ProfessorUnicorn/ProfessorUnicorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
